@@ -1,3 +1,5 @@
-endpoint URL
-
+Endpoint URL
 http://image-filter-starter-code-dev2222222222222.us-east-1.elasticbeanstalk.com
+
+Project Github Repository URL
+https://github.com/mkdrmash/udacity-image-filter-code
